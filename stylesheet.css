@@ -1,0 +1,11 @@
+.name {
+color: red;
+font-family: "Courier New";
+
+}
+
+body {
+
+background-image: url(https://www.ignant.com/wp-content/uploads/2015/10/ojeda_photography-17.jpg);
+  overflow: scroll;
+}
